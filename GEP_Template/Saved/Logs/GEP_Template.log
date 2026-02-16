@@ -3357,3 +3357,144 @@ Sampler Limit: 32
 [2026.02.16-15.28.23:693][ 53]LogSlate: Window 'Message Log' being destroyed
 [2026.02.16-15.28.48:065][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2026.02.16-15.28.48:067][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.02.16-15.29.16:328][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3574.820312
+[2026.02.16-15.29.17:327][364]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.29.17:329][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3575.487793, Update Interval: 333.042389
+[2026.02.16-15.31.21:595][304]LogDerivedDataCache: C:/Users/c2-Towariansky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.16-15.35.49:916][163]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3968.415283
+[2026.02.16-15.35.50:072][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.35.50:072][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3968.553467, Update Interval: 305.899841
+[2026.02.16-15.35.53:151][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/AC_inventory.AC_inventory
+[2026.02.16-15.35.53:151][352]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.16-15.36.11:848][550]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.02.16-15.36.11:848][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.16-15.36.11:867][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/AC_inventory.AC_inventory
+[2026.02.16-15.36.11:867][550]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.16-15.36.12:231][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.16-15.38.48:137][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.16-15.38.48:138][177]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2026.02.16-15.41.37:483][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4315.940918
+[2026.02.16-15.41.37:650][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.41.37:650][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4316.097656, Update Interval: 308.703278
+[2026.02.16-15.41.58:113][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.16-15.44.35:769][186]LogSlate: Took 0.003187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.16-15.46.08:781][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.16-15.47.36:801][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4675.235840
+[2026.02.16-15.47.36:976][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.47.36:976][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4675.402344, Update Interval: 305.031891
+[2026.02.16-15.48.15:087][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.16-15.49.08:091][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.16-15.49.08:093][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.026
+[2026.02.16-15.49.08:093][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_pickupPool] ([2] browsable assets)...
+[2026.02.16-15.49.08:093][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_pickupPool]
+[2026.02.16-15.49.08:104][538]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto4
+[2026.02.16-15.49.08:104][538]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_pickupPool_Auto4F8B6E4DD4FFAB62F99B21C9D3BD68071.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto4.uasset'
+[2026.02.16-15.49.08:107][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_inventory] ([2] browsable assets)...
+[2026.02.16-15.49.08:107][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_inventory]
+[2026.02.16-15.49.08:109][538]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/AC_inventory_Auto4
+[2026.02.16-15.49.08:109][538]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_inventory_Auto46467683A45211D146EE942A4D91EE2A8.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/AC_inventory_Auto4.uasset'
+[2026.02.16-15.49.08:110][538]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.02.16-15.53.24:985][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5023.293457
+[2026.02.16-15.53.25:152][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.53.25:152][540]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5023.451660, Update Interval: 318.763397
+[2026.02.16-15.59.18:113][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.16-15.59.18:116][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2026.02.16-15.59.18:116][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_pickupPool] ([2] browsable assets)...
+[2026.02.16-15.59.18:117][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_pickupPool]
+[2026.02.16-15.59.18:127][884]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto5
+[2026.02.16-15.59.18:127][884]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_pickupPool_Auto519D80ED4406BD7FE5C1E0CA66256A63E.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto5.uasset'
+[2026.02.16-15.59.18:128][884]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.02.16-15.59.27:714][913]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5386.062500
+[2026.02.16-15.59.28:715][916]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-15.59.28:715][916]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5386.729004, Update Interval: 324.432495
+[2026.02.16-16.04.58:521][530]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.16-16.05.40:555][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5758.895996
+[2026.02.16-16.05.40:722][552]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-16.05.40:722][552]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5759.054688, Update Interval: 344.752350
+[2026.02.16-16.06.23:592][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.16-16.09.22:295][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.02.16-16.09.22:296][772]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2026.02.16-16.09.22:297][772]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_pickupPool] ([2] browsable assets)...
+[2026.02.16-16.09.22:297][772]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_pickupPool]
+[2026.02.16-16.09.22:306][772]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto6
+[2026.02.16-16.09.22:306][772]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_pickupPool_Auto6F9B63CC94E0F737C01C6A09B834F8355.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto6.uasset'
+[2026.02.16-16.09.22:308][772]LogFileHelpers: Auto-saving content packages took 0.012
+[2026.02.16-16.12.17:485][646]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6155.809082
+[2026.02.16-16.12.17:643][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-16.12.17:643][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6155.958984, Update Interval: 346.257507
+[2026.02.16-16.16.54:495][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.16-16.18.42:518][748]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6540.888184
+[2026.02.16-16.18.42:675][767]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-16.18.42:675][767]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6541.037598, Update Interval: 301.818298
+[2026.02.16-16.19.59:252][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.16-16.19.59:254][891]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.021
+[2026.02.16-16.19.59:254][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_pickupPool] ([2] browsable assets)...
+[2026.02.16-16.19.59:254][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_pickupPool]
+[2026.02.16-16.19.59:264][891]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto7
+[2026.02.16-16.19.59:265][891]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_pickupPool_Auto78B36ED6746B4BA5D8627739BD773CEBE.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/AC_pickupPool_Auto7.uasset'
+[2026.02.16-16.19.59:268][891]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.02.16-16.24.43:486][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6901.856934
+[2026.02.16-16.24.43:628][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-16.24.43:628][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6901.991699, Update Interval: 348.735016
+[2026.02.16-16.25.07:282][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.16-16.29.59:228][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.16-16.29.59:230][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2026.02.16-16.29.59:231][213]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.16-16.29.59:302][213]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.16-16.29.59:302][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.16-16.29.59:315][213]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2026.02.16-16.29.59:317][213]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/BP_ThirdPersonCharacter_Auto8D9B365D943CE1107932E88869F80D677.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2026.02.16-16.29.59:319][213]LogFileHelpers: Auto-saving content packages took 0.089
+[2026.02.16-16.31.21:427][472]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.16-16.31.21:438][472]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.16-16.31.21:447][472]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.16-16.31.21:452][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7299.839844
+[2026.02.16-16.31.21:461][473]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.16-16.31.21:595][479]LogDerivedDataCache: C:/Users/c2-Towariansky/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.16-16.31.21:680][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-16.31.21:680][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7300.058594, Update Interval: 310.743134
+[2026.02.16-16.31.23:627][719]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2026.02.16-16.31.23:634][719]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.16-16.31.25:530][934]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/NewBlueprint.NewBlueprint
+[2026.02.16-16.31.25:531][934]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.16-16.34.55:754][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.16-16.35.53:227][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.16-16.35.54:759][380]LogSlate: Window 'Save Content' being destroyed
+[2026.02.16-16.35.54:826][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-16.35.54:890][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_inventory] ([2] browsable assets)...
+[2026.02.16-16.35.54:890][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_inventory]
+[2026.02.16-16.35.54:890][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/AC_inventory" FILE="D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_inventory.uasset" SILENT=true
+[2026.02.16-16.35.54:892][380]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AC_inventory
+[2026.02.16-16.35.54:894][380]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_inventory26B7E6E743AA9943131CD6AB9D581E35.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_inventory.uasset'
+[2026.02.16-16.35.54:895][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/AC_pickupPool] ([2] browsable assets)...
+[2026.02.16-16.35.54:896][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/AC_pickupPool]
+[2026.02.16-16.35.54:906][380]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/AC_pickupPool
+[2026.02.16-16.35.54:906][380]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/AC_pickupPool2B6EC1484773F10D760AF09478399AF0.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_pickupPool.uasset'
+[2026.02.16-16.35.54:908][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/Bp_PooledActor] ([2] browsable assets)...
+[2026.02.16-16.35.54:908][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/Bp_PooledActor]
+[2026.02.16-16.35.54:914][380]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Bp_PooledActor
+[2026.02.16-16.35.54:916][380]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/Bp_PooledActorCA37CB484693702CC9F8BD9FD877CADB.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/Bp_PooledActor.uasset'
+[2026.02.16-16.35.54:919][380]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.16-16.35.55:046][380]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.16-16.35.55:046][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.16-16.35.55:058][380]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.16-16.35.55:059][380]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/BP_ThirdPersonCharacterCAD00F534B3879B8CAD45AA63F75CA90.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.16-16.35.55:061][380]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/NewBlueprint] ([2] browsable assets)...
+[2026.02.16-16.35.55:061][380]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/NewBlueprint]
+[2026.02.16-16.35.55:061][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/NewBlueprint" FILE="D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/NewBlueprint.uasset" SILENT=true
+[2026.02.16-16.35.55:063][380]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/NewBlueprint
+[2026.02.16-16.35.55:063][380]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/NewBlueprintE4EA38994CB96DB5CC7FC6B51C4467D6.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/NewBlueprint.uasset'
+[2026.02.16-16.35.55:077][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.595 ms (total: 1.27 sec)
+[2026.02.16-16.35.55:139][380]LogContentValidation: Display: Starting to validate 5 assets
+[2026.02.16-16.35.55:139][380]LogContentValidation: Enabled validators:
+[2026.02.16-16.35.55:139][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-16.35.55:139][380]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-16.35.55:139][380]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-16.35.55:139][380]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-16.35.55:139][380]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-16.35.55:139][380]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-16.35.55:140][380]AssetCheck: /Game/ThirdPerson/Blueprints/AC_inventory Validating asset
+[2026.02.16-16.35.55:140][380]AssetCheck: /Game/ThirdPerson/Blueprints/AC_pickupPool Validating asset
+[2026.02.16-16.35.55:140][380]AssetCheck: /Game/ThirdPerson/Blueprints/Bp_PooledActor Validating asset
+[2026.02.16-16.35.55:140][380]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.16-16.35.55:140][380]AssetCheck: /Game/ThirdPerson/Blueprints/NewBlueprint Validating asset
