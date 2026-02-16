@@ -3355,3 +3355,5 @@ Sampler Limit: 32
 [2026.02.16-15.28.21:562][ 41]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
 [2026.02.16-15.28.23:276][ 53]LogSlate: Window 'Message Log' being destroyed
 [2026.02.16-15.28.23:693][ 53]LogSlate: Window 'Message Log' being destroyed
+[2026.02.16-15.28.48:065][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.02.16-15.28.48:067][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
