@@ -4123,3 +4123,21 @@ Script call stack:
 [2026.03.02-15.33.01:683][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2026.03.02-15.33.01:703][614]LogPlayLevel: Display: Destroying online subsystem :Context_51
 [2026.03.02-15.33.01:730][617]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2026.03.02-15.35.19:961][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.03.02-15.35.20:924][559]LogSlate: Window 'Save Content' being destroyed
+[2026.03.02-15.35.20:937][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.02-15.35.21:039][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.02-15.35.21:070][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.03.02-15.35.21:098][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.02-15.35.21:104][559]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XQ/NMOCE8HDUKK9330BIDMVGW
+[2026.03.02-15.35.21:104][559]LogSavePackage: Moving 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Saved/NMOCE8HDUKK9330BIDMVGW22EA7643428D19DF5677C6979852CC9B.tmp' to 'D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XQ/NMOCE8HDUKK9330BIDMVGW.uasset'
+[2026.03.02-15.35.21:122][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 184.803 ms (total: 1.28 sec)
+[2026.03.02-15.35.21:190][559]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.02-15.35.21:190][559]LogContentValidation: Enabled validators:
+[2026.03.02-15.35.21:190][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.02-15.35.21:190][559]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.02-15.35.21:190][559]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.02-15.35.21:190][559]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.02-15.35.21:190][559]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.02-15.35.21:190][559]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.02-15.35.21:190][559]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
