@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Cora/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/LevelPrototyping/User_Interface/EquipSelect.uasset",
+				"D:/Cora/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_inventory.uasset",
+				"D:/Cora/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_pickupPool.uasset",
+				"D:/Cora/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/YA/29KD11YM73NHCPVEHM98EU.uasset",
+				"D:/Cora/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Cora/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/LevelPrototyping/User_Interface/PauseMenu.uasset",
 				"D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_pickupPool.uasset",
 				"D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Cora stuff/gep-25-26-unreal-template-T0w-C0R4/GEP_Template/Content/ThirdPerson/Blueprints/AC_inventory.uasset",
